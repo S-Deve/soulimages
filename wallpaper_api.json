@@ -1,0 +1,64 @@
+{
+  "wallpaper_api": [
+    {
+      "category": "Nature",
+      "images": [
+        {
+          "id": "nat_remote_01",
+          "title": "Emerald Valley",
+          "url": "https://raw.githubusercontent.com/username/repo/main/wallpapers/nature/emerald_valley.jpg"
+        },
+        {
+          "id": "nat_remote_02",
+          "title": "Crimson Peak",
+          "url": "https://raw.githubusercontent.com/username/repo/main/wallpapers/nature/crimson_peak.jpg"
+        }
+      ]
+    },
+    {
+      "category": "Abstract",
+      "images": [
+        {
+          "id": "abs_remote_01",
+          "title": "Digital Ether",
+          "url": "https://raw.githubusercontent.com/username/repo/main/wallpapers/abstract/ether.jpg"
+        },
+        {
+          "id": "abs_remote_02",
+          "title": "Liquid Geometry",
+          "url": "https://raw.githubusercontent.com/username/repo/main/wallpapers/abstract/geometry.jpg"
+        }
+      ]
+    },
+    {
+      "category": "Architecture",
+      "images": [
+        {
+          "id": "arc_remote_01",
+          "title": "Urban Span",
+          "url": "https://raw.githubusercontent.com/username/repo/main/wallpapers/arch/bridge.jpg"
+        },
+        {
+          "id": "arc_remote_02",
+          "title": "Glass Monolith",
+          "url": "https://raw.githubusercontent.com/username/repo/main/wallpapers/arch/monolith.jpg"
+        }
+      ]
+    },
+    {
+      "category": "Minimal",
+      "images": [
+        {
+          "id": "min_remote_01",
+          "title": "Silent Horizon",
+          "url": "https://raw.githubusercontent.com/username/repo/main/wallpapers/minimal/horizon.jpg"
+        },
+        {
+          "id": "min_remote_02",
+          "title": "Paper Texture",
+          "url": "https://raw.githubusercontent.com/username/repo/main/wallpapers/minimal/paper.jpg"
+        }
+      ]
+    }
+  ]
+}
