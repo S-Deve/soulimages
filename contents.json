@@ -1,0 +1,696 @@
+{
+  "android_play_store_link": "",
+  "ios_app_store_link": "",
+  "sticker_packs": [
+    {
+      "identifier": "1",
+      "name": "Pack 1",
+      "publisher": "DR MAROUANE",
+      "tray_image_file": "1.png",
+      "image_data_version": "1",
+      "avoid_cache": false,
+      "publisher_email": "",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+	  "animated_sticker_pack": true,
+      "stickers": [
+        {
+          "image_file": "1.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "2.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "3.webp",
+          "emojis": ["😆","😂"]
+        },
+        {
+          "image_file": "4.webp",
+          "emojis": ["😩","😰"]
+        },
+        {
+          "image_file": "5.webp",
+          "emojis": ["😭","💧"]
+        },
+        {
+          "image_file": "6.webp",
+          "emojis": ["😭","💧"]
+        },
+        {
+          "image_file": "7.webp",
+          "emojis": ["😭","💧"]
+        },
+        {
+          "image_file": "8.webp",
+          "emojis": ["😭","💧"]
+        },
+        {
+          "image_file": "9.webp",
+          "emojis": ["😭","💧"]
+        },
+        {
+          "image_file": "10.webp",
+          "emojis": ["😭","💧"]
+        },
+        {
+          "image_file": "11.webp",
+          "emojis": ["😭","💧"]
+        },
+        {
+          "image_file": "12.webp",
+          "emojis": ["😭","💧"]
+        },
+        {
+          "image_file": "13.webp",
+          "emojis": ["😭","💧"]
+        },
+        {
+          "image_file": "14.webp",
+          "emojis": ["😭","💧"]
+        },
+        {
+          "image_file": "15.webp",
+          "emojis": ["ðŸ˜­","ðŸ’§"]
+        }
+      ]
+    },
+    {
+      "identifier": "2",
+      "name": "Pack 2",
+      "publisher": "DR MAROUANE",
+      "tray_image_file": "1.png",
+      "image_data_version": "1",
+      "avoid_cache": false,
+      "publisher_email": "",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "animated_sticker_pack": true,
+       "stickers": [
+        {
+          "image_file": "1.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "2.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "3.webp",
+          "emojis": ["😆","😂"]
+        },
+        {
+          "image_file": "4.webp",
+          "emojis": ["😩","😰"]
+        },
+        {
+          "image_file": "5.webp",
+          "emojis": ["😭","💧"]
+        },
+        {
+          "image_file": "6.webp",
+          "emojis": ["😭","💧"]
+        },
+        {
+          "image_file": "7.webp",
+          "emojis": ["😭","💧"]
+        },
+        {
+          "image_file": "8.webp",
+          "emojis": ["😭","💧"]
+        },
+        {
+          "image_file": "9.webp",
+          "emojis": ["😭","💧"]
+        },
+        {
+          "image_file": "10.webp",
+          "emojis": ["😭","💧"]
+        },
+        {
+          "image_file": "11.webp",
+          "emojis": ["😭","💧"]
+        },
+        {
+          "image_file": "12.webp",
+          "emojis": ["😭","💧"]
+        },
+        {
+          "image_file": "13.webp",
+          "emojis": ["😭","💧"]
+        },
+        {
+          "image_file": "14.webp",
+          "emojis": ["😭","💧"]
+        },
+        {
+          "image_file": "15.webp",
+          "emojis": ["ðŸ˜­","ðŸ’§"]
+        }
+      ]
+    }
+	 ,
+  {
+      "identifier": "3",
+      "name": "Pack 3",
+      "publisher": "DR MAROUANE",
+      "tray_image_file": "1.png",
+      "image_data_version": "1",
+      "avoid_cache": false,
+      "publisher_email": "",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+	  
+        {
+          "image_file": "1.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "2.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "3.webp",
+          "emojis": ["😆","😂"]
+        },
+        {
+          "image_file": "4.webp",
+          "emojis": ["😩","😰"]
+        },
+        {
+          "image_file": "5.webp",
+          "emojis": ["😭","💧"]
+        },
+        {
+          "image_file": "6.webp",
+          "emojis": ["😭","💧"]
+        },
+        {
+          "image_file": "7.webp",
+          "emojis": ["😭","💧"]
+        },
+        {
+          "image_file": "8.webp",
+          "emojis": ["😭","💧"]
+        },
+        {
+          "image_file": "9.webp",
+          "emojis": ["😭","💧"]
+        },
+        {
+          "image_file": "10.webp",
+          "emojis": ["😭","💧"]
+        },
+        {
+          "image_file": "11.webp",
+          "emojis": ["😭","💧"]
+        },
+        {
+          "image_file": "12.webp",
+          "emojis": ["😭","💧"]
+        },
+        {
+          "image_file": "13.webp",
+          "emojis": ["😭","💧"]
+        },
+        {
+          "image_file": "14.webp",
+          "emojis": ["😭","💧"]
+        },
+        {
+          "image_file": "15.webp",
+          "emojis": ["ðŸ˜­","ðŸ’§"]
+        }
+
+      ]
+    }
+	
+	 ,
+
+    {
+      "identifier": "4",
+      "name": "Pack 4",
+      "publisher": "DR MAROUANE",
+      "tray_image_file": "1.png",
+      "image_data_version":"1",
+      "avoid_cache":false,
+      "publisher_email":"",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "1.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "2.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "3.webp",
+          "emojis": ["😆","😂"]
+        },
+        {
+          "image_file": "4.webp",
+          "emojis": ["😩","😰"]
+        },
+        {
+          "image_file": "5.webp",
+          "emojis": ["😭","💧"]
+        },
+        {
+          "image_file": "6.webp",
+          "emojis": ["😭","💧"]
+        },
+        {
+          "image_file": "7.webp",
+          "emojis": ["😭","💧"]
+        },
+        {
+          "image_file": "8.webp",
+          "emojis": ["😭","💧"]
+        },
+        {
+          "image_file": "9.webp",
+          "emojis": ["😭","💧"]
+        },
+        {
+          "image_file": "10.webp",
+          "emojis": ["😭","💧"]
+        },
+        {
+          "image_file": "11.webp",
+          "emojis": ["😭","💧"]
+        },
+        {
+          "image_file": "12.webp",
+          "emojis": ["😭","💧"]
+        },
+        {
+          "image_file": "13.webp",
+          "emojis": ["😭","💧"]
+        },
+        {
+          "image_file": "14.webp",
+          "emojis": ["😭","💧"]
+        },
+        {
+          "image_file": "15.webp",
+          "emojis": ["ðŸ˜­","ðŸ’§"]
+        }
+      ]
+    }
+	
+	,
+
+    {
+      "identifier": "5",
+      "name": "Pack 5",
+      "publisher": "DR MAROUANE",
+      "tray_image_file": "1.png",
+      "image_data_version":"1",
+      "avoid_cache":false,
+      "publisher_email":"",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "1.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "2.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "3.webp",
+          "emojis": ["😆","😂"]
+        },
+        {
+          "image_file": "4.webp",
+          "emojis": ["😩","😰"]
+        },
+        {
+          "image_file": "5.webp",
+          "emojis": ["😭","💧"]
+        },
+        {
+          "image_file": "6.webp",
+          "emojis": ["😭","💧"]
+        },
+        {
+          "image_file": "7.webp",
+          "emojis": ["😭","💧"]
+        },
+        {
+          "image_file": "8.webp",
+          "emojis": ["😭","💧"]
+        },
+        {
+          "image_file": "9.webp",
+          "emojis": ["😭","💧"]
+        },
+        {
+          "image_file": "10.webp",
+          "emojis": ["😭","💧"]
+        },
+        {
+          "image_file": "11.webp",
+          "emojis": ["😭","💧"]
+        },
+        {
+          "image_file": "12.webp",
+          "emojis": ["😭","💧"]
+        },
+        {
+          "image_file": "13.webp",
+          "emojis": ["😭","💧"]
+        },
+        {
+          "image_file": "14.webp",
+          "emojis": ["😭","💧"]
+        },
+        {
+          "image_file": "15.webp",
+          "emojis": ["ðŸ˜­","ðŸ’§"]
+        }
+      ]
+    }
+
+  ,
+
+    {
+      "identifier": "6",
+      "name": "Pack 6",
+      "publisher": "DR MAROUANE",
+      "tray_image_file": "1.png",
+      "image_data_version":"1",
+      "avoid_cache":false,
+      "publisher_email":"",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "1.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "2.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "3.webp",
+          "emojis": ["😆","😂"]
+        },
+        {
+          "image_file": "4.webp",
+          "emojis": ["😩","😰"]
+        },
+        {
+          "image_file": "5.webp",
+          "emojis": ["😭","💧"]
+        },
+        {
+          "image_file": "6.webp",
+          "emojis": ["😭","💧"]
+        },
+        {
+          "image_file": "7.webp",
+          "emojis": ["😭","💧"]
+        },
+        {
+          "image_file": "8.webp",
+          "emojis": ["😭","💧"]
+        },
+        {
+          "image_file": "9.webp",
+          "emojis": ["😭","💧"]
+        },
+        {
+          "image_file": "10.webp",
+          "emojis": ["😭","💧"]
+        },
+        {
+          "image_file": "11.webp",
+          "emojis": ["😭","💧"]
+        },
+        {
+          "image_file": "12.webp",
+          "emojis": ["😭","💧"]
+        },
+        {
+          "image_file": "13.webp",
+          "emojis": ["😭","💧"]
+        },
+        {
+          "image_file": "14.webp",
+          "emojis": ["😭","💧"]
+        },
+        {
+          "image_file": "15.webp",
+          "emojis": ["ðŸ˜­","ðŸ’§"]
+        }
+      ]
+    }
+
+  ,
+
+    {
+      "identifier": "7",
+      "name": "Pack 7",
+      "publisher": "DR MAROUANE",
+      "tray_image_file": "1.png",
+      "image_data_version":"1",
+      "avoid_cache":false,
+      "publisher_email":"",
+      "publisher_website": "",
+      "animated_sticker_pack": true,
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "1.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "2.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "3.webp",
+          "emojis": ["😆","😂"]
+        },
+        {
+          "image_file": "4.webp",
+          "emojis": ["😩","😰"]
+        },
+        {
+          "image_file": "5.webp",
+          "emojis": ["😭","💧"]
+        },
+        {
+          "image_file": "6.webp",
+          "emojis": ["😭","💧"]
+        },
+        {
+          "image_file": "7.webp",
+          "emojis": ["😭","💧"]
+        },
+        {
+          "image_file": "8.webp",
+          "emojis": ["😭","💧"]
+        },
+        {
+          "image_file": "9.webp",
+          "emojis": ["😭","💧"]
+        },
+        {
+          "image_file": "10.webp",
+          "emojis": ["😭","💧"]
+        },
+        {
+          "image_file": "11.webp",
+          "emojis": ["😭","💧"]
+        },
+        {
+          "image_file": "12.webp",
+          "emojis": ["😭","💧"]
+        },
+        {
+          "image_file": "13.webp",
+          "emojis": ["😭","💧"]
+        },
+        {
+          "image_file": "14.webp",
+          "emojis": ["😭","💧"]
+        },
+        {
+          "image_file": "15.webp",
+          "emojis": ["ðŸ˜­","ðŸ’§"]
+        }
+      ]
+    }
+
+,
+
+    {
+      "identifier": "8",
+      "name": "Pack 8",
+      "publisher": "DR MAROUANE",
+      "tray_image_file": "1.png",
+      "image_data_version":"1",
+      "avoid_cache":false,
+      "publisher_email":"",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "1.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "2.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "3.webp",
+          "emojis": ["😆","😂"]
+        },
+        {
+          "image_file": "4.webp",
+          "emojis": ["😩","😰"]
+        },
+        {
+          "image_file": "5.webp",
+          "emojis": ["😭","💧"]
+        },
+        {
+          "image_file": "6.webp",
+          "emojis": ["😭","💧"]
+        },
+        {
+          "image_file": "7.webp",
+          "emojis": ["😭","💧"]
+        },
+        {
+          "image_file": "8.webp",
+          "emojis": ["😭","💧"]
+        },
+        {
+          "image_file": "9.webp",
+          "emojis": ["😭","💧"]
+        },
+        {
+          "image_file": "10.webp",
+          "emojis": ["😭","💧"]
+        },
+        {
+          "image_file": "11.webp",
+          "emojis": ["😭","💧"]
+        },
+        {
+          "image_file": "12.webp",
+          "emojis": ["😭","💧"]
+        },
+        {
+          "image_file": "13.webp",
+          "emojis": ["😭","💧"]
+        },
+        {
+          "image_file": "14.webp",
+          "emojis": ["😭","💧"]
+        },
+        {
+          "image_file": "15.webp",
+          "emojis": ["ðŸ˜­","ðŸ’§"]
+        }
+      ]
+    }
+	
+	,
+
+    {
+      "identifier": "9",
+      "name": "Pack 9",
+      "publisher": "DR MAROUANE",
+      "tray_image_file": "1.png",
+      "image_data_version":"1",
+      "avoid_cache":false,
+      "publisher_email":"",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "1.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "2.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "3.webp",
+          "emojis": ["😆","😂"]
+        },
+        {
+          "image_file": "4.webp",
+          "emojis": ["😩","😰"]
+        },
+        {
+          "image_file": "5.webp",
+          "emojis": ["😭","💧"]
+        },
+        {
+          "image_file": "6.webp",
+          "emojis": ["😭","💧"]
+        },
+        {
+          "image_file": "7.webp",
+          "emojis": ["😭","💧"]
+        },
+        {
+          "image_file": "8.webp",
+          "emojis": ["😭","💧"]
+        },
+        {
+          "image_file": "9.webp",
+          "emojis": ["😭","💧"]
+        },
+        {
+          "image_file": "10.webp",
+          "emojis": ["😭","💧"]
+        },
+        {
+          "image_file": "11.webp",
+          "emojis": ["😭","💧"]
+        },
+        {
+          "image_file": "12.webp",
+          "emojis": ["😭","💧"]
+        },
+        {
+          "image_file": "13.webp",
+          "emojis": ["😭","💧"]
+        },
+        {
+          "image_file": "14.webp",
+          "emojis": ["😭","💧"]
+        },
+        {
+          "image_file": "15.webp",
+          "emojis": ["ðŸ˜­","ðŸ’§"]
+        }
+      ]
+    }
+  ]
+}
