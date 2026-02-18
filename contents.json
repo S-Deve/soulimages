@@ -3,7 +3,7 @@
     {
       "category": "Ramadan kareem",
       "images": [
-        { "id": "ramadan_kareem_01", "url": "https://i.imgur.com/L04rao5.jpeg", "is_ai": false },
+        { "id": "ramadan_kareem_01", "url": "https://i.imgur.com/L04rao5.jpeg", "is_ai": true },
         { "id": "ramadan_kareem_02", "url": "https://i.imgur.com/OM5O3v2.jpeg", "is_ai": false },
         { "id": "ramadan_kareem_03", "url": "https://i.imgur.com/BtwFakP.jpeg", "is_ai": false },
         { "id": "ramadan_kareem_04", "url": "https://i.imgur.com/7eQbKcu.jpeg", "is_ai": false },
@@ -28,7 +28,7 @@
     {
       "category": "Lanterns",
       "images": [
-        { "id": "lanterns_01", "url": "https://i.imgur.com/lqXZz7D.jpeg", "is_ai": false },
+        { "id": "lanterns_01", "url": "https://i.imgur.com/lqXZz7D.jpeg", "is_ai": true },
         { "id": "lanterns_02", "url": "https://i.imgur.com/L4SGyLJ.jpeg", "is_ai": false },
         { "id": "lanterns_03", "url": "https://i.imgur.com/5xEPJYg.jpeg", "is_ai": false },
         { "id": "lanterns_04", "url": "https://i.imgur.com/uLEDS8H.jpeg", "is_ai": false },
@@ -45,7 +45,7 @@
     {
       "category": "Mosque",
       "images": [
-        { "id": "mosque_01", "url": "https://i.imgur.com/2Ivg5ct.jpeg", "is_ai": false },
+        { "id": "mosque_01", "url": "https://i.imgur.com/2Ivg5ct.jpeg", "is_ai": true },
         { "id": "mosque_02", "url": "https://i.imgur.com/wUeqXbq.jpeg", "is_ai": false },
         { "id": "mosque_03", "url": "https://i.imgur.com/t66Nxk5.jpeg", "is_ai": false },
         { "id": "mosque_04", "url": "https://i.imgur.com/PK2dJQR.jpeg", "is_ai": false },
@@ -56,23 +56,9 @@
       ]
     },
     {
-      "category": "Art",
-      "images": [
-        { "id": "art_01", "url": "https://i.imgur.com/kUrPXFS.jpeg", "is_ai": true },
-        { "id": "art_02", "url": "https://i.imgur.com/t66Nxk5.jpeg", "is_ai": true },
-        { "id": "art_03", "url": "https://i.imgur.com/OzGZzMe.jpeg", "is_ai": true },
-        { "id": "art_04", "url": "https://i.imgur.com/qZ4eP5l.jpeg", "is_ai": true },
-        { "id": "art_05", "url": "https://i.imgur.com/aGYxCnH.jpeg", "is_ai": true },
-        { "id": "art_06", "url": "https://i.imgur.com/xdocAyy.jpeg", "is_ai": true },
-        { "id": "art_07", "url": "https://i.imgur.com/3Dpk9dD.jpeg", "is_ai": true },
-        { "id": "art_08", "url": "https://i.imgur.com/67HWfrd.jpeg", "is_ai": true },
-        { "id": "art_09", "url": "https://i.imgur.com/A3KzCsh.jpeg", "is_ai": true }
-      ]
-    },
-    {
       "category": "Laylat al Qadr",
       "images": [
-        { "id": "laylat_al_qadr_01", "url": "https://i.imgur.com/xddZ9Fp.jpeg", "is_ai": false },
+        { "id": "laylat_al_qadr_01", "url": "https://i.imgur.com/xddZ9Fp.jpeg", "is_ai": true },
         { "id": "laylat_al_qadr_02", "url": "https://i.imgur.com/CvhJNDB.jpeg", "is_ai": false },
         { "id": "laylat_al_qadr_03", "url": "https://i.imgur.com/3w1hsua.jpeg", "is_ai": false },
         { "id": "laylat_al_qadr_04", "url": "https://i.imgur.com/5VijrEU.jpeg", "is_ai": false },
@@ -91,7 +77,7 @@
     {
       "category": "Eid moubarak",
       "images": [
-        { "id": "eid_moubarak_01", "url": "https://i.imgur.com/TfRC6sK.jpeg", "is_ai": false },
+        { "id": "eid_moubarak_01", "url": "https://i.imgur.com/TfRC6sK.jpeg", "is_ai": true },
         { "id": "eid_moubarak_02", "url": "https://i.imgur.com/H78KuF8.jpeg", "is_ai": false },
         { "id": "eid_moubarak_03", "url": "https://i.imgur.com/ktv3aY1.jpeg", "is_ai": false },
         { "id": "eid_moubarak_04", "url": "https://i.imgur.com/eMITlj5.jpeg", "is_ai": false },
