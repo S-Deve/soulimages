@@ -1,246 +1,112 @@
 {
-    "android_play_store_link": "",
-    "ios_app_store_link": "",
-    "sticker_packs": [
-        {
-            "identifier": "10",
-            "name": "Pack 10",
-            "publisher": "DR MAROUANE",
-            "tray_image_file": "https://media.tenor.com/mM9XIj54JXUAAAAj/salam-salam-alaikum.gif",
-            "image_data_version": "1",
-            "avoid_cache": false,
-            "publisher_email": "",
-            "publisher_website": "",
-            "privacy_policy_website": "",
-            "license_agreement_website": "",
-            "animated_sticker_pack": true,
-            "stickers": [
-                {
-                    "image_file": "https://media.tenor.com/LWksZRwxoF8AAAAm/salaam-alaikum-salaam.webp",
-                    "emojis": [
-                        "☕",
-                        "🙂"
-                    ]
-                },
-                {
-                    "image_file": "https://media.tenor.com/2L7-Ntzt650AAAAm/amen-aamiin-ya-rabbal-alamin.webp",
-                    "emojis": [
-                        "😄",
-                        "😀"
-                    ]
-                },
-                {
-                    "image_file": "https://media.tenor.com/7sHw_XDygX0AAAAm/ua-alaikum-assalam.webp",
-                    "emojis": [
-                        "😆",
-                        "😂"
-                    ]
-                },
-                {
-                    "image_file": "https://media.tenor.com/VQgpElQDqGsAAAAM/really-muslim.gif",
-                    "emojis": [
-                        "😩",
-                        "😰"
-                    ]
-                },
-                {
-                    "image_file": "https://media.tenor.com/VQgpElQDqGsAAAAM/really-muslim.gif",
-                    "emojis": [
-                        "😭",
-                        "💧"
-                    ]
-                },
-                {
-                    "image_file": "https://media.tenor.com/VQgpElQDqGsAAAAM/really-muslim.gif",
-                    "emojis": [
-                        "😭",
-                        "💧"
-                    ]
-                },
-                {
-                    "image_file": "https://media.tenor.com/VQgpElQDqGsAAAAM/really-muslim.gif",
-                    "emojis": [
-                        "😭",
-                        "💧"
-                    ]
-                },
-                {
-                    "image_file": "https://media.tenor.com/VQgpElQDqGsAAAAM/really-muslim.gif",
-                    "emojis": [
-                        "😭",
-                        "💧"
-                    ]
-                },
-                {
-                    "image_file": "https://media.tenor.com/KYKT33OF0gQAAAAm/happy-ramadan-prayer.webp",
-                    "emojis": [
-                        "😭",
-                        "💧"
-                    ]
-                },
-                {
-                    "image_file": "https://media.tenor.com/KYKT33OF0gQAAAAm/happy-ramadan-prayer.webp",
-                    "emojis": [
-                        "😭",
-                        "💧"
-                    ]
-                },
-                {
-                    "image_file": "https://media.tenor.com/KYKT33OF0gQAAAAm/happy-ramadan-prayer.webp",
-                    "emojis": [
-                        "😭",
-                        "💧"
-                    ]
-                },
-                {
-                    "image_file": "https://media.tenor.com/KYKT33OF0gQAAAAm/happy-ramadan-prayer.webp",
-                    "emojis": [
-                        "😭",
-                        "💧"
-                    ]
-                },
-                {
-                    "image_file": "https://media.tenor.com/KYKT33OF0gQAAAAm/happy-ramadan-prayer.webp",
-                    "emojis": [
-                        "😭",
-                        "💧"
-                    ]
-                },
-                {
-                    "image_file": "https://media.tenor.com/KYKT33OF0gQAAAAm/happy-ramadan-prayer.webp",
-                    "emojis": [
-                        "😭",
-                        "💧"
-                    ]
-                },
-                {
-                    "image_file": "https://media.tenor.com/KYKT33OF0gQAAAAm/happy-ramadan-prayer.webp",
-                    "emojis": [
-                        "😭",
-                        "💧"
-                    ]
-                }
-            ]
-        },
-        {
-            "identifier": "11",
-            "name": "Pack 11",
-            "publisher": "DR MAROUANE",
-            "tray_image_file": "https://raw.githubusercontent.com/S-Deve/soulimages/refs/heads/main/11/1.png",
-            "image_data_version": "1",
-            "avoid_cache": false,
-            "publisher_email": "",
-            "publisher_website": "",
-            "privacy_policy_website": "",
-            "license_agreement_website": "",
-            "animated_sticker_pack": true,
-            "stickers": [
-                {
-                    "image_file": "https://raw.githubusercontent.com/S-Deve/soulimages/refs/heads/main/11/1.webp",
-                    "emojis": [
-                        "☕",
-                        "🙂"
-                    ]
-                },
-                {
-                    "image_file": "https://raw.githubusercontent.com/S-Deve/soulimages/refs/heads/main/11/2.webp",
-                    "emojis": [
-                        "😄",
-                        "😀"
-                    ]
-                },
-                {
-                    "image_file": "https://raw.githubusercontent.com/S-Deve/soulimages/refs/heads/main/11/3.webp",
-                    "emojis": [
-                        "😆",
-                        "😂"
-                    ]
-                },
-                {
-                    "image_file": "https://raw.githubusercontent.com/S-Deve/soulimages/refs/heads/main/11/4.webp",
-                    "emojis": [
-                        "😩",
-                        "😰"
-                    ]
-                },
-                {
-                    "image_file": "https://raw.githubusercontent.com/S-Deve/soulimages/refs/heads/main/11/5.webp",
-                    "emojis": [
-                        "😭",
-                        "💧"
-                    ]
-                },
-                {
-                    "image_file": "https://raw.githubusercontent.com/S-Deve/soulimages/refs/heads/main/11/6.webp",
-                    "emojis": [
-                        "😭",
-                        "💧"
-                    ]
-                },
-                {
-                    "image_file": "https://raw.githubusercontent.com/S-Deve/soulimages/refs/heads/main/11/7.webp",
-                    "emojis": [
-                        "😭",
-                        "💧"
-                    ]
-                },
-                {
-                    "image_file": "https://raw.githubusercontent.com/S-Deve/soulimages/refs/heads/main/11/8.webp",
-                    "emojis": [
-                        "😭",
-                        "💧"
-                    ]
-                },
-                {
-                    "image_file": "https://raw.githubusercontent.com/S-Deve/soulimages/refs/heads/main/11/9.webp",
-                    "emojis": [
-                        "😭",
-                        "💧"
-                    ]
-                },
-                {
-                    "image_file": "https://raw.githubusercontent.com/S-Deve/soulimages/refs/heads/main/11/10.webp",
-                    "emojis": [
-                        "😭",
-                        "💧"
-                    ]
-                },
-                {
-                    "image_file": "https://raw.githubusercontent.com/S-Deve/soulimages/refs/heads/main/11/11.webp",
-                    "emojis": [
-                        "😭",
-                        "💧"
-                    ]
-                },
-                {
-                    "image_file": "https://raw.githubusercontent.com/S-Deve/soulimages/refs/heads/main/11/12.webp",
-                    "emojis": [
-                        "😭",
-                        "💧"
-                    ]
-                },
-                {
-                    "image_file": "https://raw.githubusercontent.com/S-Deve/soulimages/refs/heads/main/11/13.webp",
-                    "emojis": [
-                        "😭",
-                        "💧"
-                    ]
-                },
-                {
-                    "image_file": "https://raw.githubusercontent.com/S-Deve/soulimages/refs/heads/main/11/14.webp",
-                    "emojis": [
-                        "😭",
-                        "💧"
-                    ]
-                },
-                {
-                    "image_file": "https://raw.githubusercontent.com/S-Deve/soulimages/refs/heads/main/11/15.webp",
-                    "emojis": [
-                        "😭",
-                        "💧"
-                    ]
-                }
-            ]
-        }
-    ]
+  "wallpaper_api": [
+    {
+      "category": "Ramadan kareem",
+      "images": [
+        { "id": "ramadan_kareem_01", "url": "https://i.imgur.com/L04rao5.jpeg", "is_ai": false },
+        { "id": "ramadan_kareem_02", "url": "https://i.imgur.com/OM5O3v2.jpeg", "is_ai": false },
+        { "id": "ramadan_kareem_03", "url": "https://i.imgur.com/BtwFakP.jpeg", "is_ai": false },
+        { "id": "ramadan_kareem_04", "url": "https://i.imgur.com/7eQbKcu.jpeg", "is_ai": false },
+        { "id": "ramadan_kareem_05", "url": "https://i.imgur.com/Y7aa7xf.jpeg", "is_ai": false },
+        { "id": "ramadan_kareem_06", "url": "https://i.imgur.com/bquRTkH.jpeg", "is_ai": false },
+        { "id": "ramadan_kareem_07", "url": "https://i.imgur.com/LLAH32I.jpeg", "is_ai": false },
+        { "id": "ramadan_kareem_08", "url": "https://i.imgur.com/1spJ7Hh.jpeg", "is_ai": false },
+        { "id": "ramadan_kareem_09", "url": "https://i.imgur.com/wjqW35o.jpeg", "is_ai": false },
+        { "id": "ramadan_kareem_10", "url": "https://i.imgur.com/s8Aoro2.jpeg", "is_ai": false },
+        { "id": "ramadan_kareem_11", "url": "https://i.imgur.com/NPg1yRe.jpeg", "is_ai": false },
+        { "id": "ramadan_kareem_12", "url": "https://i.imgur.com/Gt2gRZW.jpeg", "is_ai": false },
+        { "id": "ramadan_kareem_13", "url": "https://i.imgur.com/79AWZTO.jpeg", "is_ai": false },
+        { "id": "ramadan_kareem_14", "url": "https://i.imgur.com/5h3uvnJ.jpeg", "is_ai": false },
+        { "id": "ramadan_kareem_15", "url": "https://i.imgur.com/VmJnzAW.jpeg", "is_ai": false },
+        { "id": "ramadan_kareem_16", "url": "https://i.imgur.com/UNIHoh5.jpeg", "is_ai": false },
+        { "id": "ramadan_kareem_17", "url": "https://i.imgur.com/dfUZLU3.jpeg", "is_ai": false },
+        { "id": "ramadan_kareem_18", "url": "https://i.imgur.com/qyYYmGv.jpeg", "is_ai": false },
+        { "id": "ramadan_kareem_19", "url": "https://i.imgur.com/O1wE3El.jpeg", "is_ai": false },
+        { "id": "ramadan_kareem_20", "url": "https://i.imgur.com/kW4xuvy.jpeg", "is_ai": false }
+      ]
+    },
+    {
+      "category": "Lanterns",
+      "images": [
+        { "id": "lanterns_01", "url": "https://i.imgur.com/lqXZz7D.jpeg", "is_ai": false },
+        { "id": "lanterns_02", "url": "https://i.imgur.com/L4SGyLJ.jpeg", "is_ai": false },
+        { "id": "lanterns_03", "url": "https://i.imgur.com/5xEPJYg.jpeg", "is_ai": false },
+        { "id": "lanterns_04", "url": "https://i.imgur.com/uLEDS8H.jpeg", "is_ai": false },
+        { "id": "lanterns_05", "url": "https://i.imgur.com/0mbmLWK.jpeg", "is_ai": false },
+        { "id": "lanterns_06", "url": "https://i.imgur.com/9ORbhwy.jpeg", "is_ai": false },
+        { "id": "lanterns_07", "url": "https://i.imgur.com/1oj8qi6.jpeg", "is_ai": false },
+        { "id": "lanterns_08", "url": "https://i.imgur.com/FtHQd1c.jpeg", "is_ai": false },
+        { "id": "lanterns_09", "url": "https://i.imgur.com/PjdHPMr.jpeg", "is_ai": false },
+        { "id": "lanterns_10", "url": "https://i.imgur.com/JHp4Hxk.jpeg", "is_ai": false },
+        { "id": "lanterns_11", "url": "https://i.imgur.com/zVb6O0T.jpeg", "is_ai": false },
+        { "id": "lanterns_12", "url": "https://i.imgur.com/Rhq8A1E.jpeg", "is_ai": false }
+      ]
+    },
+    {
+      "category": "Mosque",
+      "images": [
+        { "id": "mosque_01", "url": "https://i.imgur.com/2Ivg5ct.jpeg", "is_ai": false },
+        { "id": "mosque_02", "url": "https://i.imgur.com/wUeqXbq.jpeg", "is_ai": false },
+        { "id": "mosque_03", "url": "https://i.imgur.com/t66Nxk5.jpeg", "is_ai": false },
+        { "id": "mosque_04", "url": "https://i.imgur.com/PK2dJQR.jpeg", "is_ai": false },
+        { "id": "mosque_05", "url": "https://i.imgur.com/y6OOyDt.jpeg", "is_ai": false },
+        { "id": "mosque_06", "url": "https://i.imgur.com/m1hFwhx.jpeg", "is_ai": false },
+        { "id": "mosque_07", "url": "https://i.imgur.com/h37xMZt.jpeg", "is_ai": false },
+        { "id": "mosque_08", "url": "https://i.imgur.com/rNyCVsM.jpeg", "is_ai": false }
+      ]
+    },
+    {
+      "category": "Art",
+      "images": [
+        { "id": "art_01", "url": "https://i.imgur.com/kUrPXFS.jpeg", "is_ai": true },
+        { "id": "art_02", "url": "https://i.imgur.com/t66Nxk5.jpeg", "is_ai": true },
+        { "id": "art_03", "url": "https://i.imgur.com/OzGZzMe.jpeg", "is_ai": true },
+        { "id": "art_04", "url": "https://i.imgur.com/qZ4eP5l.jpeg", "is_ai": true },
+        { "id": "art_05", "url": "https://i.imgur.com/aGYxCnH.jpeg", "is_ai": true },
+        { "id": "art_06", "url": "https://i.imgur.com/xdocAyy.jpeg", "is_ai": true },
+        { "id": "art_07", "url": "https://i.imgur.com/3Dpk9dD.jpeg", "is_ai": true },
+        { "id": "art_08", "url": "https://i.imgur.com/67HWfrd.jpeg", "is_ai": true },
+        { "id": "art_09", "url": "https://i.imgur.com/A3KzCsh.jpeg", "is_ai": true }
+      ]
+    },
+    {
+      "category": "Laylat al Qadr",
+      "images": [
+        { "id": "laylat_al_qadr_01", "url": "https://i.imgur.com/xddZ9Fp.jpeg", "is_ai": false },
+        { "id": "laylat_al_qadr_02", "url": "https://i.imgur.com/CvhJNDB.jpeg", "is_ai": false },
+        { "id": "laylat_al_qadr_03", "url": "https://i.imgur.com/3w1hsua.jpeg", "is_ai": false },
+        { "id": "laylat_al_qadr_04", "url": "https://i.imgur.com/5VijrEU.jpeg", "is_ai": false },
+        { "id": "laylat_al_qadr_05", "url": "https://i.imgur.com/HMRxKOu.jpeg", "is_ai": false },
+        { "id": "laylat_al_qadr_06", "url": "https://i.imgur.com/n7vIPju.jpeg", "is_ai": false },
+        { "id": "laylat_al_qadr_07", "url": "https://i.imgur.com/5BtnuyE.jpeg", "is_ai": false },
+        { "id": "laylat_al_qadr_08", "url": "https://i.imgur.com/InTzKkJ.jpeg", "is_ai": false },
+        { "id": "laylat_al_qadr_09", "url": "https://i.imgur.com/MKqqXTt.jpeg", "is_ai": false },
+        { "id": "laylat_al_qadr_10", "url": "https://i.imgur.com/UW8KFI4.jpeg", "is_ai": false },
+        { "id": "laylat_al_qadr_11", "url": "https://i.imgur.com/Ja3qMmS.jpeg", "is_ai": false },
+        { "id": "laylat_al_qadr_12", "url": "https://i.imgur.com/o4AOXMm.jpeg", "is_ai": false },
+        { "id": "laylat_al_qadr_13", "url": "https://i.imgur.com/aIoQvXv.jpeg", "is_ai": false },
+        { "id": "laylat_al_qadr_14", "url": "https://i.imgur.com/9LctsC1.jpeg", "is_ai": false }
+      ]
+    },
+    {
+      "category": "Eid moubarak",
+      "images": [
+        { "id": "eid_moubarak_01", "url": "https://i.imgur.com/TfRC6sK.jpeg", "is_ai": false },
+        { "id": "eid_moubarak_02", "url": "https://i.imgur.com/H78KuF8.jpeg", "is_ai": false },
+        { "id": "eid_moubarak_03", "url": "https://i.imgur.com/ktv3aY1.jpeg", "is_ai": false },
+        { "id": "eid_moubarak_04", "url": "https://i.imgur.com/eMITlj5.jpeg", "is_ai": false },
+        { "id": "eid_moubarak_05", "url": "https://i.imgur.com/MgrwK3B.jpeg", "is_ai": false },
+        { "id": "eid_moubarak_06", "url": "https://i.imgur.com/84SwL3p.jpeg", "is_ai": false },
+        { "id": "eid_moubarak_07", "url": "https://i.imgur.com/B74h6QZ.jpeg", "is_ai": false },
+        { "id": "eid_moubarak_08", "url": "https://i.imgur.com/yWgrqj0.jpeg", "is_ai": false },
+        { "id": "eid_moubarak_09", "url": "https://i.imgur.com/KCLP5vi.jpeg", "is_ai": false },
+        { "id": "eid_moubarak_10", "url": "https://i.imgur.com/IcPlorh.jpeg", "is_ai": false },
+        { "id": "eid_moubarak_11", "url": "https://i.imgur.com/DnSgoqR.jpeg", "is_ai": false },
+        { "id": "eid_moubarak_12", "url": "https://i.imgur.com/7qSt5Ke.jpeg", "is_ai": false },
+        { "id": "eid_moubarak_13", "url": "https://i.imgur.com/irzy3Dw.jpeg", "is_ai": false },
+        { "id": "eid_moubarak_14", "url": "https://i.imgur.com/ZBLzioY.jpeg", "is_ai": false },
+        { "id": "eid_moubarak_15", "url": "https://i.imgur.com/KviG2ii.jpeg", "is_ai": false }
+      ]
+    }
+  ]
 }
